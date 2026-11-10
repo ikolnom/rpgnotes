@@ -1,0 +1,1 @@
+Son of [[Grog]], recovered from an enchantment spell attached to a manifesto that was activated by [[Starlie]]. Forever changed, now has a tendency towards violence.

@@ -1,0 +1,2 @@
+- Dryw Religion, believe the forest has come to balance humanity with respect to nature
+- Currently undergoing a crisis as leaders adapt and adopt more and more technology.

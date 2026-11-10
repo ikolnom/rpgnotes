@@ -1,0 +1,4 @@
+- Small but influential cabal in the city of Ljosem, who are tracking down items used to banish their cathedral.
+- Attempting to bring it back to this lane and regain ancient knowledge from Shib-nin without awakening him.
+- Four daggers must be stabbed into the ground around the cathedral in [[4]]
+	- One is with Sigur, one is in [[3]], the other are unknown

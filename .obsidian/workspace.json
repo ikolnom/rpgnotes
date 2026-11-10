@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "a23f5799ce3e5fde",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc37eb16ddda50b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5557fcfd07dcd798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dungeoncrawl test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dungeoncrawl test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6aedad525cb4cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "07573fb740bd924d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a2131ccfd0b33f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8a269cf608911eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8924b1e683ce6b62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba7f8394b5b23df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b1645d594a361a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a245fff9b698564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a3144cd81901c8da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "718c6eb2439722b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36441dd8ae45f157",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8fe7f6f6400617c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "hex-cartographer:Create Hex Map": false
+    }
+  },
+  "active": "5557fcfd07dcd798",
+  "lastOpenFiles": [
+    "Rules.md",
+    "Tools/Tables/Settlement.md",
+    "Tools/Tables/Player.md",
+    "Tools/Tables/Dungeon.md",
+    "Tools/Tables/NPCs.md",
+    "Settlements, Locations, Regions/Mount Cylth.md",
+    "Settlements, Locations, Regions/Ionah.md",
+    "Religions/Sannach.md",
+    "Histories/Annai's Abandonment.md",
+    "Dungeons/Deep Caves.md",
+    "Tools/Character Questions.md",
+    "Tools/Religion Questions.md",
+    "Tools/Settlement Questions.md",
+    "dungeoncrawl test.md",
+    "Settlements, Locations, Regions/Brynal.md",
+    "Settlements, Locations, Regions/Ljosem.md",
+    "Tools/Maps/Overworld.hexcartographer.md",
+    "Hexes/15.md",
+    "Tools/Tables/Encounters.md",
+    "Tools/Tables/Loot.md",
+    "Characters/Ramsey.md",
+    "Tools/Untitled.md",
+    "Hexes/2.md",
+    "Tools/Maps",
+    "Tools/Tables",
+    "Characters/Cythia.md",
+    "Characters/Oyst.md",
+    "Test.md",
+    "Tools",
+    "Histories",
+    "Settlements, Locations, Regions",
+    "Characters",
+    "Untitled.canvas",
+    "Religions",
+    "Dungeons",
+    "Dieties, Spirits, Creatures",
+    "Factions"
+  ]
+}

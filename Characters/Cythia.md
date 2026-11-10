@@ -1,0 +1,3 @@
+Aunt of [[Starlie]] and eldest sister of [[Ramsey]] and [[Oyst]]. Helped raise Starlie after the death of his mother. Tall, graceful, with an austere yet practical beauty. She has radiant, silky black hair and a deep piercing gaze. Always a black sheep, she was never explicitly given a role in the family or in the religion. Left to her own devices for most of her life. Despite this, she does feel a deep love for her family, and wishes she could do something to mend the situation.
+
+She has mostly found herself in the role of managing the seminaries and religious education of the clerical class. The abandonment by her family as left an indelible mark on her soul as she tries to mend it by finding ways to be useful.

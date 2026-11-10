@@ -1,0 +1,4 @@
+- Keep Lienuun asleep under the lake by sending two volunteers to perform 24/7 vespers
+- Lienuun is enemies with Shib-nin in [[1]]
+	- If Shib-nin is awoken it will cause Lienuun to awake as well and mass-destruction will ensue
+- Congregate in [[3]] around the central tower

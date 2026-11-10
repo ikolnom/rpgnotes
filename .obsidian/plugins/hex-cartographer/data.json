@@ -1,0 +1,13 @@
+{
+  "exportWidth": 1024,
+  "showCrosshair": true,
+  "hideHexBorders": false,
+  "hexNumberingEnabled": false,
+  "hexNumberingDirection": "horizontal",
+  "hexNumberingAlpha": false,
+  "hexNumberingAlphaChess": false,
+  "hexNumberingPosition": "top",
+  "hexNumberingColor": "#ffffff",
+  "hexNumberingOutline": true,
+  "hexNumberingFontSize": 10
+}
