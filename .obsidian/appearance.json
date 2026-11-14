@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "accentColor": "#b3ecff",
-  "cssTheme": "Minimal"
+  "cssTheme": "Earthsong",
+  "showRibbon": true
 }

@@ -1,0 +1,4 @@
+*In the time before time, before the Adrhun had formed their divine counsel. Before humanity had been gifted the arts, before Arglwydd united the tribes of Haffanlle. Long ago, in the time before time... lived a young man named Rhydderch in the old tongue, who might now be named Gwyn. He was a good man, a shrewd merchant, a brave leader, and a virtuous warrior. Naturally then, Gwyn rose in his community and was raised to the level of chief. Dearly beloved by his people, folk from across the land flocked to his court to seek counsel.*
+
+*Despite this, Gwyn harbored a secret paranoia that his end was always near. It was said that he spread his wealth across his domain in the most unlikely of places. Further, legends say that his burial ceremony was a farce, and his body lie in a secret tomb known to only his closest confidants. *
+[[Gwyn's Tower]]

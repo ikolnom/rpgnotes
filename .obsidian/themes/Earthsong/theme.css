@@ -1,0 +1,293 @@
+/* Earthsong — warm earth tones, cream text, and living green accents. */
+
+body {
+  color-scheme: dark;
+
+  --earthsong-background: #26231d;
+  --earthsong-panel: #332e28;
+  --earthsong-surface: #36312c;
+  --earthsong-hover: #443d35;
+  --earthsong-active: #4b4942;
+  --earthsong-border: #544b41;
+  --earthsong-border-strong: #635c51;
+  --earthsong-text: #ebd1b7;
+  --earthsong-text-soft: #d2baa4;
+  --earthsong-muted: #b5a18d;
+  --earthsong-faint: #a69b8d;
+  --earthsong-comment: #a69b8d;
+  --earthsong-accent: #95cc5e;
+  --earthsong-accent-hover: #a6d577;
+  --earthsong-green-soft: #82ac84;
+  --earthsong-function: #60a365;
+  --earthsong-orange: #db784d;
+  --earthsong-yellow: #f8bb39;
+  --earthsong-red: #e58b7a;
+  --earthsong-purple: #c9a0aa;
+  --earthsong-peach: #e4a88a;
+
+  --radius-s: 4px;
+  --radius-m: 6px;
+  --radius-l: 10px;
+  --input-radius: var(--radius-m);
+  --tab-radius-active: 6px 6px 0 0;
+
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-text-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-monospace-theme: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+
+  --shadow-s: 0 4px 16px #17140f66, 0 1px 3px #17140f80;
+  --shadow-l: 0 12px 40px #17140f99, 0 2px 8px #17140f80;
+}
+
+.theme-dark,
+.theme-light {
+  color-scheme: dark;
+
+  --accent-h: 90;
+  --accent-s: 52%;
+  --accent-l: 58%;
+
+  --color-base-00: var(--earthsong-background);
+  --color-base-05: #29251f;
+  --color-base-10: #2e2923;
+  --color-base-20: var(--earthsong-panel);
+  --color-base-25: var(--earthsong-surface);
+  --color-base-30: #403930;
+  --color-base-35: var(--earthsong-hover);
+  --color-base-40: var(--earthsong-border);
+  --color-base-50: var(--earthsong-faint);
+  --color-base-60: var(--earthsong-muted);
+  --color-base-70: var(--earthsong-text-soft);
+  --color-base-100: var(--earthsong-text);
+
+  --color-red: var(--earthsong-red);
+  --color-orange: var(--earthsong-orange);
+  --color-yellow: var(--earthsong-yellow);
+  --color-green: var(--earthsong-accent);
+  --color-cyan: var(--earthsong-green-soft);
+  --color-blue: #8fa9a0;
+  --color-purple: var(--earthsong-purple);
+  --color-pink: var(--earthsong-peach);
+
+  --background-primary: var(--earthsong-background);
+  --background-primary-alt: var(--earthsong-surface);
+  --background-secondary: var(--earthsong-panel);
+  --background-secondary-alt: var(--earthsong-hover);
+  --background-modifier-hover: #ebd1b712;
+  --background-modifier-active-hover: #95cc5e24;
+  --background-modifier-border: var(--earthsong-border);
+  --background-modifier-border-hover: var(--earthsong-border-strong);
+  --background-modifier-border-focus: var(--earthsong-accent);
+  --background-modifier-form-field: var(--earthsong-panel);
+  --background-modifier-form-field-hover: var(--earthsong-surface);
+  --background-modifier-error: var(--earthsong-red);
+  --background-modifier-error-hover: #ed9c8e;
+  --background-modifier-success: var(--earthsong-accent);
+  --background-modifier-message: var(--earthsong-panel);
+  --background-modifier-box-shadow: #17140f80;
+  --background-modifier-cover: #17140fcc;
+
+  --interactive-normal: var(--earthsong-hover);
+  --interactive-hover: var(--earthsong-border);
+  --interactive-accent: var(--earthsong-accent);
+  --interactive-accent-hover: var(--earthsong-accent-hover);
+
+  --text-normal: var(--earthsong-text);
+  --text-muted: var(--earthsong-muted);
+  --text-faint: var(--earthsong-faint);
+  --text-on-accent: var(--earthsong-background);
+  --text-on-accent-inverted: var(--earthsong-background);
+  --text-accent: var(--earthsong-accent);
+  --text-accent-hover: var(--earthsong-accent-hover);
+  --text-success: var(--earthsong-accent);
+  --text-warning: var(--earthsong-yellow);
+  --text-error: var(--earthsong-red);
+  --text-selection: #95cc5e38;
+  --text-highlight-bg: #f8bb394d;
+  --caret-color: var(--earthsong-accent);
+
+  --icon-color: var(--earthsong-muted);
+  --icon-color-hover: var(--earthsong-text);
+  --icon-color-active: var(--earthsong-accent);
+  --icon-color-focused: var(--earthsong-text);
+
+  --divider-color: var(--earthsong-border);
+  --divider-color-hover: var(--earthsong-accent);
+  --indentation-guide-color: var(--earthsong-hover);
+  --indentation-guide-color-active: var(--earthsong-border-strong);
+
+  --ribbon-background: var(--earthsong-background);
+  --ribbon-background-collapsed: var(--earthsong-background);
+  --status-bar-background: var(--earthsong-background);
+  --status-bar-border-color: var(--earthsong-border);
+  --status-bar-text-color: var(--earthsong-faint);
+  --titlebar-background: var(--earthsong-panel);
+  --titlebar-background-focused: var(--earthsong-panel);
+  --titlebar-text-color: var(--earthsong-muted);
+  --titlebar-text-color-focused: var(--earthsong-text);
+  --workspace-background-translucent: #26231deb;
+
+  --tab-container-background: #2b2721;
+  --tab-background-active: var(--earthsong-background);
+  --tab-inner-background-hover: var(--earthsong-hover);
+  --tab-text-color: var(--earthsong-faint);
+  --tab-text-color-active: var(--earthsong-muted);
+  --tab-text-color-focused: var(--earthsong-muted);
+  --tab-text-color-focused-active: var(--earthsong-text);
+  --tab-text-color-focused-active-current: var(--earthsong-text);
+  --tab-divider-color: var(--earthsong-border);
+  --tab-outline-color: var(--earthsong-border);
+
+  --nav-item-color: var(--earthsong-muted);
+  --nav-item-color-hover: var(--earthsong-text);
+  --nav-item-color-active: var(--earthsong-text);
+  --nav-item-color-selected: var(--earthsong-text);
+  --nav-item-color-highlighted: var(--earthsong-accent);
+  --nav-item-background-hover: var(--earthsong-hover);
+  --nav-item-background-active: var(--earthsong-hover);
+  --nav-item-background-selected: #95cc5e24;
+  --nav-tag-color: var(--earthsong-faint);
+
+  --menu-background: var(--earthsong-panel);
+  --menu-border-color: var(--earthsong-border-strong);
+  --modal-background: var(--earthsong-panel);
+  --modal-sidebar-background: var(--earthsong-background);
+  --modal-border-color: var(--earthsong-border-strong);
+  --prompt-background: var(--earthsong-panel);
+  --prompt-border-color: var(--earthsong-border-strong);
+
+  --input-placeholder-color: var(--earthsong-faint);
+  --input-hover-border-color: var(--earthsong-border-strong);
+  --input-focus-border-color: var(--earthsong-accent);
+  --checkbox-marker-color: var(--earthsong-background);
+  --checkbox-border-color: var(--earthsong-faint);
+  --checkbox-border-color-hover: var(--earthsong-text-soft);
+  --toggle-thumb-color: var(--earthsong-text);
+  --slider-track-background: var(--earthsong-border);
+  --slider-thumb-background: var(--earthsong-accent);
+
+  --scrollbar-thumb-bg: #af9d8953;
+  --scrollbar-active-thumb-bg: #af9d897a;
+
+  --inline-title-color: var(--earthsong-orange);
+  --h1-color: var(--earthsong-orange);
+  --h2-color: var(--earthsong-text);
+  --h3-color: var(--earthsong-text);
+  --h4-color: var(--earthsong-text-soft);
+  --h5-color: var(--earthsong-text-soft);
+  --h6-color: var(--earthsong-muted);
+  --bold-color: #f0dcc5;
+  --italic-color: var(--earthsong-text-soft);
+
+  --link-color: var(--earthsong-accent);
+  --link-color-hover: var(--earthsong-accent-hover);
+  --link-external-color: var(--earthsong-accent);
+  --link-external-color-hover: var(--earthsong-accent-hover);
+  --link-unresolved-color: var(--earthsong-green-soft);
+  --link-unresolved-opacity: 0.75;
+  --link-decoration-thickness: 1px;
+
+  --list-marker-color: var(--earthsong-green-soft);
+  --list-marker-color-hover: var(--earthsong-accent);
+  --list-marker-color-collapsed: var(--earthsong-accent);
+  --hr-color: var(--earthsong-border);
+  --hr-thickness: 1px;
+
+  --blockquote-border-color: var(--earthsong-green-soft);
+  --blockquote-border-thickness: 3px;
+  --blockquote-color: var(--earthsong-text-soft);
+  --blockquote-background-color: #332e2866;
+
+  --code-background: #2e2923;
+  --code-normal: var(--earthsong-text);
+  --code-comment: var(--earthsong-comment);
+  --code-function: var(--earthsong-function);
+  --code-keyword: var(--earthsong-orange);
+  --code-important: var(--earthsong-red);
+  --code-operator: var(--earthsong-orange);
+  --code-property: var(--earthsong-green-soft);
+  --code-punctuation: var(--earthsong-muted);
+  --code-string: var(--earthsong-yellow);
+  --code-tag: var(--earthsong-accent);
+  --code-value: var(--earthsong-yellow);
+  --code-radius: var(--radius-s);
+
+  --tag-color: var(--earthsong-accent);
+  --tag-color-hover: var(--earthsong-accent-hover);
+  --tag-background: #95cc5e1a;
+  --tag-background-hover: #95cc5e2e;
+  --tag-border-color: #95cc5e38;
+  --tag-border-color-hover: #95cc5e66;
+  --tag-border-width: 1px;
+
+  --table-background: var(--earthsong-background);
+  --table-border-color: var(--earthsong-border);
+  --table-header-background: var(--earthsong-surface);
+  --table-header-background-hover: var(--earthsong-hover);
+  --table-header-border-color: var(--earthsong-border-strong);
+  --table-header-color: var(--earthsong-text);
+  --table-row-alt-background: #332e2866;
+  --table-row-background-hover: #443d3580;
+  --table-row-alt-background-hover: var(--earthsong-hover);
+  --table-selection: #95cc5e24;
+  --table-selection-border-color: var(--earthsong-accent);
+
+  --callout-border-width: 1px;
+  --callout-border-opacity: 0.35;
+  --callout-radius: var(--radius-m);
+  --callout-title-weight: 600;
+  --callout-bug: var(--earthsong-red);
+  --callout-default: var(--earthsong-green-soft);
+  --callout-error: var(--earthsong-red);
+  --callout-example: var(--earthsong-purple);
+  --callout-fail: var(--earthsong-red);
+  --callout-important: var(--earthsong-accent);
+  --callout-info: #8fa9a0;
+  --callout-question: var(--earthsong-yellow);
+  --callout-success: var(--earthsong-accent);
+  --callout-summary: var(--earthsong-green-soft);
+  --callout-tip: var(--earthsong-green-soft);
+  --callout-todo: var(--earthsong-yellow);
+  --callout-warning: var(--earthsong-orange);
+  --callout-quote: var(--earthsong-muted);
+
+  --graph-text: var(--earthsong-text-soft);
+  --graph-line: var(--earthsong-border-strong);
+  --graph-node: var(--earthsong-green-soft);
+  --graph-node-unresolved: var(--earthsong-faint);
+  --graph-node-focused: var(--earthsong-accent);
+  --graph-node-tag: var(--earthsong-yellow);
+  --graph-node-attachment: var(--earthsong-orange);
+
+  --canvas-background: var(--earthsong-background);
+  --canvas-dot-pattern: var(--earthsong-border);
+  --canvas-card-label-color: var(--earthsong-muted);
+  --search-result-background: var(--earthsong-panel);
+  --search-icon-color: var(--earthsong-muted);
+  --search-clear-button-color: var(--earthsong-muted);
+}
+
+::selection {
+  color: var(--earthsong-text);
+  background: var(--text-selection);
+}
+
+.markdown-rendered mark,
+.cm-highlight {
+  color: var(--earthsong-text);
+}
+
+.workspace-tab-header.is-active {
+  box-shadow: inset 0 2px 0 var(--earthsong-accent);
+}
+
+.callout {
+  border-left-width: 3px;
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .theme-dark,
+  .theme-light {
+    --workspace-background-translucent: var(--earthsong-background);
+  }
+}

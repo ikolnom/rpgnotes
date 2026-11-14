@@ -1,0 +1,5 @@
+Catch-all term for those suffering from a severe degenerative disease. Goes by many names across time and culture, but it causes significant biological growth in strength and dexterity, as well as making the infected more prone to violence. The infected will also occasionally lose control of their own mind and fall unconscious, only to wake up having completed some act of horrific violence. 
+
+The disease spreads after death. An infected individual rapidly decomposes, leaving behind a strange, purple residue. Once someone comes in contact with this goop, they have less than 24 hours until it reaches their central nervous system and begins to corrupt them.
+
+Due to the nature of the disease, some militaries and outlaw groups keep infected around to use as soldiers. Often for assassinations or suicide missions. Occasionally, small colonies can be found in the far reaches of the lands consisting of infected who live together to the best of their abilities.

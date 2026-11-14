@@ -9,7 +9,6 @@ District 1: Surrounding Town
 - Sannach Seminary
 	- Relatively famous seminary for the religion. Closer to mountain than to town.
 - Bank
-	- JP deposited 60 gp at the bank, PIN: e3yt
 District 2: Main Pilgrimage site
 - Sparse if any accommodations. More like a monastery or retreat than a city district.
 	- Large central library

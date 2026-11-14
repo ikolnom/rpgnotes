@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "a23f5799ce3e5fde",
+    "id": "ecefbeb30ea82d80",
     "type": "split",
     "children": [
       {
-        "id": "7bc37eb16ddda50b",
+        "id": "6360e1bb20920115",
         "type": "tabs",
         "children": [
           {
-            "id": "5557fcfd07dcd798",
+            "id": "d4e011798370be08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dungeoncrawl test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dungeoncrawl test"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c6aedad525cb4cb2",
+    "id": "6a2a86126491debf",
     "type": "split",
     "children": [
       {
-        "id": "07573fb740bd924d",
+        "id": "8c321b5ee4201095",
         "type": "tabs",
         "children": [
           {
-            "id": "61a2131ccfd0b33f",
+            "id": "33df6c4fe9707514",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "a8a269cf608911eb",
+            "id": "8f3098770c9bc7ff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "8924b1e683ce6b62",
+            "id": "0c00ab7755931b8b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,19 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba7f8394b5b23df3",
+    "id": "3f6732d9e9136b10",
     "type": "split",
     "children": [
       {
-        "id": "13b1645d594a361a",
+        "id": "584e352fcac592db",
         "type": "tabs",
         "children": [
           {
-            "id": "8a245fff9b698564",
+            "id": "0bfe4ce311350d8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Settlements, Locations, Regions/Haffanlle/Afyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +109,12 @@
             }
           },
           {
-            "id": "a3144cd81901c8da",
+            "id": "944f7b93e7e9230d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Settlements, Locations, Regions/Haffanlle/Afyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +123,7 @@
             }
           },
           {
-            "id": "718c6eb2439722b6",
+            "id": "ba51d28098bd3f30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +138,7 @@
             }
           },
           {
-            "id": "36441dd8ae45f157",
+            "id": "aec7f05f6d47becf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,11 +152,12 @@
             }
           },
           {
-            "id": "8fe7f6f6400617c4",
+            "id": "771a6b4a91dcc5c3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Settlements, Locations, Regions/Haffanlle/Afyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,44 +185,38 @@
       "hex-cartographer:Create Hex Map": false
     }
   },
-  "active": "5557fcfd07dcd798",
+  "active": "33df6c4fe9707514",
   "lastOpenFiles": [
-    "Rules.md",
-    "Tools/Tables/Settlement.md",
-    "Tools/Tables/Player.md",
+    "etc/misc ideas.md",
+    "etc/dungeoncrawl test.md",
+    "Dungeons/Gwyn's Tower.md",
     "Tools/Tables/Dungeon.md",
-    "Tools/Tables/NPCs.md",
-    "Settlements, Locations, Regions/Mount Cylth.md",
-    "Settlements, Locations, Regions/Ionah.md",
-    "Religions/Sannach.md",
-    "Histories/Annai's Abandonment.md",
-    "Dungeons/Deep Caves.md",
-    "Tools/Character Questions.md",
-    "Tools/Religion Questions.md",
-    "Tools/Settlement Questions.md",
-    "dungeoncrawl test.md",
-    "Settlements, Locations, Regions/Brynal.md",
-    "Settlements, Locations, Regions/Ljosem.md",
+    "Crunch/Basic Rules.md",
+    "etc",
+    "Dieties, Spirits, Creatures/Adrhun.md",
+    "Crunch",
+    "Crunch/Alchemical Stuff.md",
     "Tools/Maps/Overworld.hexcartographer.md",
-    "Hexes/15.md",
-    "Tools/Tables/Encounters.md",
-    "Tools/Tables/Loot.md",
-    "Characters/Ramsey.md",
-    "Tools/Untitled.md",
-    "Hexes/2.md",
-    "Tools/Maps",
-    "Tools/Tables",
-    "Characters/Cythia.md",
-    "Characters/Oyst.md",
-    "Test.md",
-    "Tools",
-    "Histories",
-    "Settlements, Locations, Regions",
-    "Characters",
-    "Untitled.canvas",
-    "Religions",
-    "Dungeons",
-    "Dieties, Spirits, Creatures",
-    "Factions"
+    "Settlements, Locations, Regions/Haffanlle/Villages/Afyn.md",
+    "Tools/Tables/Creatures.md",
+    "Tools/Tables/Enchantments.md",
+    "Tools/Tables/Settlement.md",
+    "Tools/Tables/Player and NPC.md",
+    "Tools/Tables/NPCs.md",
+    "Factions/Hychdwn.md",
+    "Dungeons/Deep Caves.md",
+    "Dieties, Spirits, Creatures/Annai.md",
+    "Dieties, Spirits, Creatures/Lienuun.md",
+    "Dieties, Spirits, Creatures/Shib-Nin.md",
+    "Religions/Sannach.md",
+    "Settlements, Locations, Regions/Haffanlle/Main Powers/Ljosem.md",
+    "Settlements, Locations, Regions/Haffanlle/Main Powers/Ganwyd.md",
+    "Settlements, Locations, Regions/Haffanlle/Main Powers/Brynal.md",
+    "Histories/Gwyn's Horde.md",
+    "Histories/Annai's Abandonment.md",
+    "Settlements, Locations, Regions/Haffanlle/Towns",
+    "Settlements, Locations, Regions/Haffanlle/Villages",
+    "Settlements, Locations, Regions/Haffanlle/Main Powers",
+    "Settlements, Locations, Regions/Haffanlle"
   ]
 }

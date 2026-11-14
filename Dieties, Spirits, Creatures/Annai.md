@@ -1,0 +1,1 @@
+One of the divine servants of the [[Adrhun]], often depicted in a long flowing robe, embossed with floral designs and intricate patterning. Divine symbols are paper and ink. 

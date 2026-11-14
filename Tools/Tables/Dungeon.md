@@ -136,7 +136,7 @@ danger
 title
 	Room
 output
-	[size] sized [shape] shaped room, with {{1-3} exits^2|stairs^0.5|{1-2} exits and stairs^0.25 }, featuring [encounter]. This room seems to have been a [function]
+	[size] sized [shape] shaped room, with {{1-3} exits^2|stairs^0.5|{1-2} exits and stairs^0.25 } and {1-3} levels, featuring [encounter]. This room seems to have been a [function]
 size
 	closet^0.5
 	small
